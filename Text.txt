@@ -1,0 +1,12 @@
+John
+12 clark ave
+New jersy
+13762
+Nurse
+67000
+Mike
+51 hamilton ave
+brooklyn
+667372
+software engineer
+80000
